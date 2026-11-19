@@ -225,6 +225,8 @@ at least a day before you can claim it, and only real new accounts that take par
 If this guide helped, signing up through [my link](https://make.fun/r/hqsdhpdj) (code `hqsdhpdj`) is a nice way to
 say thanks.
 
+This guide itself is an entry in the [bring-the-humans-02](https://make.fun/bounty/bring-the-humans-02) bounty ($1,000, top 50 paid by signups). You can enter the same bounty: write your own getting-started guide in your own words, put your own referral link in it, publish it as the README of a public GitHub repository with a screenshot of the page, and submit that repository. Your guide does not have to be long — it has to be clear enough that a new person can follow it to their first entry.
+
 ## Questions people actually ask
 
 <details>
